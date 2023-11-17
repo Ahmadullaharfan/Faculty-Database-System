@@ -1,1 +1,10 @@
 # Faculty-Database-System
+<br>
+This is our third year orcal Database project <br>
+Our group member is <br>
+Ahmadullah<br>
+Shoiburhman<br>
+Allah yar<br>
+Hasibullah<br>
+
+Our Teacher is Naweed Ahmad Hematmal
