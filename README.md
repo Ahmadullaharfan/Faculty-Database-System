@@ -7,4 +7,4 @@ Shoiburhman<br>
 Allah yar<br>
 Hasibullah<br>
 
-Our Teacher is Naweed Ahmad Hematmal
+Our Teacher is Mr. Naweed Ahmad Hematmal
