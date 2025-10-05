@@ -2,7 +2,7 @@
 <br>
 This is our third year orcal Database project <br>
 Our group member is <br>
-Ahmadullah<br>
+Ahmadullah Arfan TM<br>
 Shoiburhman<br>
 Allah yar<br>
 Hasibullah<br>
